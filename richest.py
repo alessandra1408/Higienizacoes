@@ -1,5 +1,4 @@
-import pandas as pd #para ler, visualizar e printar infos do df
-import numpy as np #numpy porque é sempre bom importar numpy né 
+import pandas as pd
 import csv
 
 df = pd.read_csv('TopRichestInWorld.csv')
